@@ -1,0 +1,15 @@
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/bin/Debug/net8.0/dz_sem_4
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/bin/Debug/net8.0/dz_sem_4.deps.json
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/bin/Debug/net8.0/dz_sem_4.runtimeconfig.json
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/bin/Debug/net8.0/dz_sem_4.dll
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/bin/Debug/net8.0/dz_sem_4.pdb
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.AssemblyInfoInputs.cache
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.AssemblyInfo.cs
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.csproj.CoreCompileInputs.cache
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.sourcelink.json
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.dll
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/refint/dz_sem_4.dll
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.pdb
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/dz_sem_4.genruntimeconfig.cache
+/Users/endruman/Desktop/Prog_sem/dz_sem_4/obj/Debug/net8.0/ref/dz_sem_4.dll
